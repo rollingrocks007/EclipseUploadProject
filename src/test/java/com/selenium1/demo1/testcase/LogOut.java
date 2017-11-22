@@ -20,5 +20,6 @@ public class LogOut {
 		
 		System.out.println("Print errorTest");
 }
+}
 
 // I have edited this file
