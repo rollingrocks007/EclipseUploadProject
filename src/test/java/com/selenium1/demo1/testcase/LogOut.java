@@ -15,6 +15,10 @@ public class LogOut {
 		
 	}
 
+	@Test
+	public void errorTest(){
+		
+		System.out.println("Print errorTest");
 }
 
 // I have edited this file
